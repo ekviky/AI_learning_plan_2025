@@ -99,4 +99,15 @@ Welcome! This repository documents a 3-month learning journey (June–September 
 ---
 
 ## 🗂️ Repository Structure
-
+📁 ai-learning-plan/
+├── README.md
+├── ai_trends_summary.md
+├── python_exercises/
+│ └── week1_exercise1.py
+├── llm_experiments/
+│ └── pubmedbert_demo.ipynb
+├── project/
+│ └── omics_annotation_demo.ipynb
+├── project_summary.md
+└── logs/
+└── weekly_checkin_2025_07_15.md
