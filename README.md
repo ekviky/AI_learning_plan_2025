@@ -103,9 +103,6 @@ Welcome! This repository documents a 3-month learning journey (June–September 
 
 ## 🗂️ Repository Structure
 
-yaml 
-
-
 
 ---
 
