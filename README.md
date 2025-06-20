@@ -30,7 +30,7 @@ Welcome! This repository documents a 3-month learning journey (June–September 
 - ⏱️ Time: ~3–4 hrs/week
 
 #### 🔗 Resources
-- ** 🎧 Podcasts**:
+- 🎧 **Podcasts**:
   - *The Bioinformatics Chat*
   - *TWIML AI Podcast*
   - *AI in Business*
