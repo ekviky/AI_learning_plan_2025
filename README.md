@@ -35,12 +35,12 @@ Welcome! This repository documents a 3-month learning journey (June–September 
   - *TWIML AI Podcast*
   - *AI in Business*
 
-- ** 📖 Articles & Blogs**:
+- 📖 **Articles & Blogs**:
   - [The Sequence](https://thesequence.substack.com)
   - [Ben’s Bites](https://www.bensbites.co/)
   - Nature Biotech AI reviews
 
-- ** 📺 Webinars **:
+- 📺 **Webinars **:
   - NIH/Nature: AI in Biomedicine
   - Datacamp: *AI in Healthcare*
 
@@ -126,6 +126,6 @@ yaml
 
 ## 🧭 Next Steps
 
-You’re encouraged to fork this repo, adapt the plan, and share your reflections or outputs. Create issues to track goals or integrate with GitHub Projects for more structure.
+You’re encouraged to fork this repo, adapt the plan, and share your reflections or outputs.
 
 ---
