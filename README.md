@@ -34,6 +34,7 @@ Welcome! This repository documents a 3-month learning journey (June–September 
   - *The Bioinformatics Chat*
   - *TWIML AI Podcast*
   - *AI in Business*
+  - [NEJM AI Grand Rounds](https://ai-podcast.nejm.org)
 
 - 📖 **Articles & Blogs**:
   - [The Sequence](https://thesequence.substack.com)
