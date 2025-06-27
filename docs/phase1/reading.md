@@ -3,13 +3,14 @@ AI transformers intro for n00bs
 
 ### 1. **“Transformers Unveiled: Powering Generative AI and Foundation Models”**
 
-**Sonali Bapte (June 2025, Medium)** – A concise, non‑technical overview introducing what foundation models are, why transformers matter, and explaining core components like tokenization, embeddings, self‑attention, and multi‑head attention—perfectly pitched for newcomers ([codecademy.com][1]).
+**Sonali Bapte (June 2025, Medium)** – A concise, non‑technical overview introducing what foundation models are, why transformers matter, and explaining core components like tokenization, embeddings, self‑attention, and multi‑head attention—perfectly pitched for newcomers ([Transformers Unveiled][2])
+
 
 ---
 
 ### 2. **“What are transformer models?”**
 
-**TechRadar (May 2025)** – A short, clear explainer focusing on the revolutionary impact of transformers (encoders, decoders, attention) and their role in powering GPT and other LLMs, including high‑level pros and cons .
+**TechRadar (May 2025)** – A short, clear explainer focusing on the revolutionary impact of transformers (encoders, decoders, attention) and their role in powering GPT and other LLMs, including high‑level pros and cons . ([TechRadar][3])
 
 ---
 
@@ -49,6 +50,13 @@ AI transformers intro for n00bs
 2. Dive into **Chris Hughes** and **XQ** for intuitive analogies behind how transformers really work.
 3. Finally, explore **Hugging Face’s “Total Noob” intro** to see what using a transformer looks like—even if you're not coding.
 
+
+([codecademy.com][1]).
 ---
 
 [1]: https://www.codecademy.com/learn/intro-to-ai-transformers?utm_source=chatgpt.com "Intro to AI Transformers | Codecademy"
+
+[2]: https://medium.com/@sonalisbapte/transformers-unveiled-powering-generative-ai-and-foundation-models-c1937b78d978 
+
+[3]: https://www.techradar.com/pro/what-are-transformer-models
+
