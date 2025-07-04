@@ -45,7 +45,7 @@ Welcome! This repository documents a 3-month learning journey (June–September 
   - NIH/Nature: AI in Biomedicine
   - Datacamp: *AI in Healthcare*
 
-#### ✅ Deliverables (by July 5)
+#### ✅ Deliverables (by July 11)
 - `ai_trends_summary.md`: 1-page summary of AI trends in biomedicine
 - Short list of 1–2 interesting omics/RWD use cases
 
